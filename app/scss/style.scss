@@ -1,3 +1,2 @@
-body {
-  background-color: red;
-}
+@forward "base/globals";
+@forward "abstracts/globals";
